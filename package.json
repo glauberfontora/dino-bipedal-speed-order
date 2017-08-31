@@ -1,0 +1,14 @@
+{
+  "name": "dino-bipedal-speed-order",
+  "version": "1.0.0",
+  "description": "Programming test",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glauber Fontora (glauber@q3m.com.br)",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.7"
+  }
+}
